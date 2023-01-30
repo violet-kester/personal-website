@@ -285,6 +285,12 @@ ion-icon {
 */
 
 #resume h1 {
+  margin-bottom: 11px;
+}
+#resume a {
+  display: block;
+  color: blue;
+  text-transform: uppercase;
   margin-bottom: 22px;
 }
 table {
