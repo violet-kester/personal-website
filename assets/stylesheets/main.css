@@ -209,12 +209,12 @@ p a {
 .logo {
   margin-bottom: 22px;
   font-size: 48px;
-  letter-spacing: .5px;
+  letter-spacing: 2px;
 }
 nav {
   font-size: 18px;
   font-weight: 300;
-  letter-spacing: .5px;
+  letter-spacing: 1px;
   text-transform: uppercase;
   text-align: center;
 }
