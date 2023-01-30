@@ -306,7 +306,7 @@ table {
   margin-bottom: 22px;
 }
 th {
-  border-bottom: 1px solid #3a3d40;
+  border-bottom: 1px solid #464a4d;
   text-align: center;
   font-weight: 400;
 }
@@ -325,6 +325,7 @@ td:last-child {
   width: 12%;
   font-size: 14px;
   padding-right: 15px;
+  color: #464a4d;
 }
 .skills {
   text-align: center;
