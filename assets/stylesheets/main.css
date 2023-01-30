@@ -324,6 +324,7 @@ td:last-child {
 .years {
   width: 12%;
   font-size: 14px;
+  padding-right: 22px;
 }
 .skills {
   text-align: center;
