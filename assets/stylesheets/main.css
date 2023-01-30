@@ -182,7 +182,7 @@ i {
 a {
   color: lightgoldenrodyellow;
   text-decoration: none;
-  font-weight: 300;
+  font-weight: 250;
 }
 p a {
   color: royalblue;
@@ -190,7 +190,7 @@ p a {
 .light-link {
   font-size: 44px;
   font-weight: 100;
-  letter-spacing: .5px;
+  letter-spacing: 4px;
   line-height: 66px;
   text-transform: uppercase;
   float: none;
@@ -210,7 +210,7 @@ p a {
 .logo {
   margin-bottom: 22px;
   font-size: 48px;
-  letter-spacing: 2px;
+  letter-spacing: 4px;
 }
 nav {
   font-size: 18px;
