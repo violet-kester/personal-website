@@ -183,6 +183,9 @@ a {
   color: lightgoldenrodyellow;
   text-decoration: none;
 }
+p a {
+  color: royalblue;
+}
 .light-link {
   font-size: 44px;
   font-weight: 100;
@@ -289,7 +292,7 @@ ion-icon {
 }
 #resume a {
   display: block;
-  color: blue;
+  color: royalblue;
   text-transform: uppercase;
   margin-bottom: 22px;
 }
@@ -375,7 +378,7 @@ M E D I A   Q U E R I E S
   #about img {
     width: 50%;
     float: left;
-    padding: 0 33px 33px 33px;
+    padding: 33px;
   }
   .smallpic {
     display: none;
