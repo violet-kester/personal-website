@@ -184,7 +184,6 @@ i {
 a {
   color: lightgoldenrodyellow;
   text-decoration: none;
-  font-weight: 250;
 }
 p a {
   color: royalblue;
@@ -213,6 +212,7 @@ p a {
   margin-bottom: 22px;
   font-size: 48px;
   letter-spacing: 4px;
+  font-weight: 200;
 }
 nav {
   font-size: 18px;
